@@ -1,0 +1,1 @@
+simple blog written in solidiy
